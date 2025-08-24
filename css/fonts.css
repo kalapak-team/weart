@@ -1,0 +1,27 @@
+/* Khmer Font Faces */
+@font-face {
+    font-family: 'Khmer Muol';
+    src: url('../fonts/khmer-muol.woff2') format('woff2'),
+         url('../fonts/khmer-muol.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Khmer OS';
+    src: url('../fonts/khmer-os.woff2') format('woff2'),
+         url('../fonts/khmer-os.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Fallback fonts */
+body {
+    font-family: 'Khmer OS', 'Poppins', sans-serif;
+}
+
+h1, h2, h3, h4, .khmer-title, .khmer-heading, .khmer-logo {
+    font-family: 'Khmer Muol', 'Playfair Display', serif;
+}
