@@ -101,7 +101,7 @@ The website is fully responsive and optimized for:
     •  Mobile browsers
 # 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-🤝 Contributing
+# 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
     1.  Fork the project
     2.  Create your feature branch (git checkout -b feature/AmazingFeature)
@@ -132,5 +132,6 @@ For questions about this project, please contact:
     •  Implement dark mode toggle
 ________________________________________
 <div align="center"> Made with ❤️ for preserving Khmer cultural heritage </div>
+
 
 
