@@ -1,7 +1,7 @@
 WeArt - Khmer Traditional Art Website
 A modern yet traditional website showcasing Khmer traditional painting and drawing arts, combining elegant Cambodian motifs with clean UI design.
 
-🌟 Features
+# 🌟 Features
     •  Traditional Khmer Design: Authentic Cambodian motifs and patterns
     •  Bilingual Interface: Khmer and English language support
     •  Responsive Design: Works perfectly on all devices
@@ -132,3 +132,4 @@ For questions about this project, please contact:
     •  Implement dark mode toggle
 ________________________________________
 <div align="center"> Made with ❤️ for preserving Khmer cultural heritage </div>
+
